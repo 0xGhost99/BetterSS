@@ -47,21 +47,31 @@ Vuoi funzionalità avanzate come GUI, Staff Mode, Vanish, AntiCheat integrato e 
 
 | Funzionalità | Free 🔵 | Premium 💎 |
 |---|---|---|
-| Mondo SS dedicato | ✅ | ✅ |
+| Mondo SS dedicato automatico | ✅ | ✅ |
 | Freeze avanzato | ✅ | ✅ |
-| Anti-relog | ✅ | ✅ |
+| Anti-relog con ban automatico | ✅ | ✅ |
 | Scoreboard live | ✅ | ✅ |
 | Webhook Discord | ✅ | ✅ |
 | Log YAML | ✅ | ✅ |
-| Gestione ban avanzata (durata, history) | ❌ | 🔜 |
+| Config personalizzabile | ✅ | ✅ |
+| Gestione ban avanzata (durata, motivo) | ❌ | 🔜 |
+| Storico ban per player | ❌ | 🔜 |
+| Ban temporaneo con durata custom | ❌ | 🔜 |
+| Info ban dettagliate | ❌ | 🔜 |
 | Scelta mondo SS personalizzata | ❌ | 🔜 |
+| Spawn SS personalizzabile per mondo | ❌ | 🔜 |
 | GUI inventario gestione SS | ❌ | 🔜 |
-| Report automatico per sessione | ❌ | 🔜 |
-| Staff Mode (OpenInv, Vanish...) | ❌ | 🔜 |
+| Report automatico YAML per sessione | ❌ | 🔜 |
+| Staff Mode completa | ❌ | 🔜 |
 | Vanish integrato | ❌ | 🔜 |
-| AntiCheat con /ss alert | ❌ | 🔜 |
-| Tasto rapido Spect / SS da alert | ❌ | 🔜 |
+| OpenInv / OpenEnder | ❌ | 🔜 |
+| AntiCheat con alert in tempo reale | ❌ | 🔜 |
+| Alert interattivi [SPECT] [SS] cliccabili | ❌ | 🔜 |
 | Hotbar staff configurabile | ❌ | 🔜 |
+| Controllo account duplicati (DupeIP) | ❌ | 🔜 |
+| Modalità spettatore rapida | ❌ | 🔜 |
+
+> 📩 Vuoi essere avvisato al lancio? Contatta **0xGhost99** su Discord
 
 ---
 
@@ -88,13 +98,24 @@ Vuoi funzionalità avanzate come GUI, Staff Mode, Vanish, AntiCheat integrato e 
 | Comando | Descrizione | Permesso |
 |---------|-------------|----------|
 | `/ss <player>` | Avvia SS | `betterss.use` |
-| `/ss freeze <player>` | Freeza | `betterss.admin` |
-| `/ss unfreeze <player>` | Defeeza | `betterss.admin` |
+| `/ss freeze <player>` | Freeza player | `betterss.admin` |
+| `/ss unfreeze <player>` | Defreeза player | `betterss.admin` |
 | `/ss clean <player>` | Termina SS | `betterss.admin` |
-| `/ss ban <player>` | Banna | `betterss.ban` |
+| `/ss ban <player>` | Banna player | `betterss.ban` |
 | `/ss discord <player>` | Invia Discord | `betterss.admin` |
 | `/ss status <player>` | Stato SS | `betterss.admin` |
 | `/ss credits` | Credits | tutti |
+
+---
+
+## 🔐 Permessi
+
+| Permesso | Descrizione | Default |
+|----------|-------------|---------|
+| `betterss.use` | Avvia SS | OP |
+| `betterss.admin` | Tutti i comandi staff | OP |
+| `betterss.ban` | Banna tramite SS | OP |
+| `betterss.bypass` | Bypass freeze | OP |
 
 ---
 
