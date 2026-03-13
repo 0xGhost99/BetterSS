@@ -1,0 +1,27 @@
+name: BetterSS
+version: 1.0.0
+main: it.betterss.BetterSS
+api-version: 1.19
+description: Plugin ScreenShare professionale per server PvP | Made by 0xGhost99
+author: 0xGhost99
+website: https://github.com/0xGhost99
+
+commands:
+  ss:
+    description: Comando principale ScreenShare | BetterSS by 0xGhost99
+    usage: /ss <player> | /ss <freeze|unfreeze|clean|ban|discord|status|credits> <player>
+    permission: betterss.use
+
+permissions:
+  betterss.use:
+    description: Usa /ss base | BetterSS by 0xGhost99
+    default: op
+  betterss.admin:
+    description: Tutti i comandi staff SS | BetterSS by 0xGhost99
+    default: op
+  betterss.ban:
+    description: Banna tramite /ss ban | BetterSS by 0xGhost99
+    default: op
+  betterss.bypass:
+    description: Bypass freeze | BetterSS by 0xGhost99
+    default: op

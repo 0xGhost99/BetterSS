@@ -1,0 +1,14 @@
+it\betterss\BetterSS.class
+it\betterss\commands\SSCommand.class
+it\betterss\SSSession.class
+it\betterss\utils\WebhookUtil.class
+it\betterss\managers\SSManager.class
+it\betterss\listeners\TeleportListener.class
+it\betterss\listeners\PlayerQuitListener.class
+it\betterss\managers\LogManager.class
+it\betterss\managers\ScoreboardManager.class
+it\betterss\utils\MessageUtil.class
+it\betterss\listeners\CommandBlockListener.class
+it\betterss\managers\WorldManager.class
+it\betterss\listeners\FreezeListener.class
+it\betterss\listeners\InventoryListener.class
