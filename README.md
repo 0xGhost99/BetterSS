@@ -10,7 +10,7 @@
 
 *La versione gratuita del plugin ScreenShare professionale per server PvP*
 
-> 💎 Cerchi più funzionalità? Scopri **BetterSS+** (soon) — la versione Premium!
+> 💎 **BetterSS+** — La versione Premium è in arrivo! **COMING SOON** 🔜
 
 </div>
 
@@ -22,7 +22,7 @@
 Fornisce tutte le funzionalità base per gestire le sessioni SS in modo professionale.
 
 Vuoi funzionalità avanzate come GUI, Staff Mode, Vanish, AntiCheat integrato e molto altro?
-👉 Dai un'occhiata a **BetterSS+**!
+👉 **BetterSS+ è in arrivo! Stay tuned.** 🔜
 
 ---
 
@@ -40,7 +40,10 @@ Vuoi funzionalità avanzate come GUI, Staff Mode, Vanish, AntiCheat integrato e 
 
 ---
 
-## 💎 BetterSS+ — Versione Premium
+## 💎 BetterSS+ — COMING SOON 🔜
+
+> ⚠️ **La versione Premium è attualmente in sviluppo.**
+> Seguici per essere notificato al lancio!
 
 | Funzionalità | Free 🔵 | Premium 💎 |
 |---|---|---|
@@ -50,16 +53,15 @@ Vuoi funzionalità avanzate come GUI, Staff Mode, Vanish, AntiCheat integrato e 
 | Scoreboard live | ✅ | ✅ |
 | Webhook Discord | ✅ | ✅ |
 | Log YAML | ✅ | ✅ |
-| Gestione ban avanzata (durata, history) | ❌ | ✅ |
-| Scelta mondo SS personalizzata | ❌ | ✅ |
-| GUI inventario gestione SS | ❌ | ✅ |
-| Report automatico per sessione | ❌ | ✅ |
-| Staff Mode (OpenInv, Vanish...) | ❌ | ✅ |
-| Vanish integrato | ❌ | ✅ |
-| AntiCheat con /ss alert | ❌ | ✅ |
-| Tasto rapido Spect / SS da alert | ❌ | ✅ |
-
-> 📩 BetterSS + (soon)
+| Gestione ban avanzata (durata, history) | ❌ | 🔜 |
+| Scelta mondo SS personalizzata | ❌ | 🔜 |
+| GUI inventario gestione SS | ❌ | 🔜 |
+| Report automatico per sessione | ❌ | 🔜 |
+| Staff Mode (OpenInv, Vanish...) | ❌ | 🔜 |
+| Vanish integrato | ❌ | 🔜 |
+| AntiCheat con /ss alert | ❌ | 🔜 |
+| Tasto rapido Spect / SS da alert | ❌ | 🔜 |
+| Hotbar staff configurabile | ❌ | 🔜 |
 
 ---
 
@@ -101,5 +103,9 @@ Vuoi funzionalità avanzate come GUI, Staff Mode, Vanish, AntiCheat integrato e 
 **0xGhost99** — [@0xGhost99](https://github.com/0xGhost99)
 
 <div align="center">
+
 Made with ❤️ by 0xGhost99
+
+⭐ Lascia una stella se ti piace il progetto!
+
 </div>
